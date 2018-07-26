@@ -1,3 +1,4 @@
 Simple text file
 :-)
 Cool
+Great!
